@@ -3,3 +3,27 @@
 ### Example user template
 
 # IntelliJ project files
+caches/caches_admin/
+caches/caches_content/
+caches/caches_linkage/
+caches/caches_member/
+caches/caches_model/
+caches/caches_scan/
+caches/caches_template/
+caches/caches_tpl_data/
+caches/error_log.php
+caches/poster_js/
+caches/sessions/
+caches/vote_js/
+html/
+phpcms/modules/attachment/classes/
+phpcms/modules/formguide/functions/
+phpcms/modules/message/functions/
+phpcms/modules/upgrade/install/templates/
+phpcms/modules/vote/functions/
+phpsso_server/caches/caches_admin/
+phpsso_server/caches/commons/
+phpsso_server/caches/settings/
+phpsso_server/phpcms/languages/en-us/
+phpsso_server/uploadfile/
+.idea/
